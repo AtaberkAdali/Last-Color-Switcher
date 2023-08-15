@@ -1,5 +1,11 @@
 # Last-Color-Switcher
+Made using Unity version 2019.4.13f1
 
-Oyunu indirme linki: https://drive.google.com/drive/folders/1liFfnkhzKTdcXzadCxmVbOaWVjx8Q7Zm?usp=sharing 
+*Project End Year : 2021*
 
-Bütün oyunların excel tablosu: https://studsduedutr-my.sharepoint.com/:x:/g/personal/l1911012052_stud_sdu_edu_tr/Eaa91LJWSz1DuKaTbrC3xycB2xga87ZZpX5BAC8DqkfLdg?e=BnsnsJ
+Game Download Link: https://drive.google.com/drive/u/2/folders/18bmuWF_AhrCsdqsNjdEe6EfoSyRqFPyZ
+# Gameplay
+
+
+https://github.com/AtaberkAdali/Last-Color-Switcher/assets/59842906/ef0327ff-ca36-47ea-a81a-a1e15e9e0a5a
+
